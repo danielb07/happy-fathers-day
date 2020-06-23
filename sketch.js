@@ -13,15 +13,15 @@ var droplets = [];
 
 var show = 0;
 function preload(){
-    happyFathersDay = loadImage("imgs/happy-fathers-day.png");
-    _1 = loadImage("imgs/pic-02.png")
-    _2 = loadImage("imgs/pic-10.png");
-    _3 = loadImage("imgs/pic-03.png");
-    _4 = loadImage("imgs/pic-04.png");
-    _5 = loadImage("imgs/pic-11.png");
-    _6 = loadImage("imgs/pic-05.png")
+    happyFathersDay = loadImage("imgs/happyfathersday.png");
+    _1 = loadImage("imgs/pic02.png")
+    _2 = loadImage("imgs/pic10.png");
+    _3 = loadImage("imgs/pic03.png");
+    _4 = loadImage("imgs/pic04.png");
+    _5 = loadImage("imgs/pic11.png");
+    _6 = loadImage("imgs/pic05.png")
     giftImg = loadImage("imgs/present.png");
-    surpriseImg = loadImage("imgs/bg-surprise.png");
+    surpriseImg = loadImage("imgs/bgsurprise.png");
     bgImg = loadImage("imgs/bg.png");
     
 
